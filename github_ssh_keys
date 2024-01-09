@@ -1,0 +1,27 @@
+(pytorch_v1) zhaozhuoya@biiz-linux:~/.ssh$ ssh-keygen -t ed25519 -C 2687003270@qq.com
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/home/zhaozhuoya/.ssh/id_ed25519): 
+Enter passphrase (empty for no passphrase): 686997zzy.
+
+公钥：(以下全部都是)
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO0UsolWs0ux83gxwxaO5jfX41f4DMWZ8s4sYlIWIDz6 2687003270@qq.com
+
+FOToM的token：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
+
+Recovery codes:
+33eae-89957 
+40d62-8102a 
+cdccc-3abc9 
+a895d-2e104 
+05265-e8205 
+5e6d2-bfe19 
+85224-7bb4c 
+df2a5-5d797 
+8f460-9b062 
+1bb76-8c48d 
+41aaf-c2eb1 
+e3521-28f4b 
+d7e12-04f0b 
+a0c8a-07e98 
+2fe6e-07bd6 
+127c4-688ee
